@@ -4,7 +4,7 @@
         background-color: whitesmoke;
         color:black;
     }
-
+}
 @media only screen and (min-width : 1224px) {
 
     .coin-app{
@@ -14,4 +14,3 @@
 
 }
 
-}
