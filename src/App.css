@@ -1,4 +1,17 @@
-.coin-app{
-    background-image: url(https://www.shore-access.com/wp-content/uploads/2017/08/portfolio-background.jpg);
-    color: whitesmoke;
+@media only screen and (max-device-width : 480px) {
+    
+    .coin-app{
+        background-color: whitesmoke;
+        color:black;
+    }
+
+@media only screen and (min-width : 1224px) {
+
+    .coin-app{
+        background-image: url(https://www.shore-access.com/wp-content/uploads/2017/08/portfolio-background.jpg);
+        color: whitesmoke;
+    }
+
+}
+
 }
