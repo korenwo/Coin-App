@@ -24,7 +24,8 @@ function App() {
 
   return (
     <div className='coin-app'>
-      <div className="coin-search">
+       <a href="https://korenportfolio.herokuapp.com/">To home page</a> 
+        <div className="coin-search">
         <h1 className="coin-text">Search a currency</h1>
         <form>
           <input type="text" placeholder="Search"
@@ -46,6 +47,7 @@ function App() {
         );
       })}
     </div>
+    
   );
 }
 

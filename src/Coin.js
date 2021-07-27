@@ -20,8 +20,7 @@ const Coin = ({ name, image, symbol, price, volume, priceChange, marketcap }) =>
                         Mkt Cap: ${marketcap.toLocaleString()}
                         </p>
                 </div>
-            </div>    
-            <a href="https://korenportfolio.herokuapp.com/"><li className="callUs">To home page</li></a>       
+            </div>          
         </div>
     )
 }
